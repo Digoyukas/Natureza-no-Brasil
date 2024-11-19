@@ -1,0 +1,78 @@
+<style type="text/css">
+    h1 {
+    font-family: fantasy ;
+     text-align: center; font-family: fantasy;
+}
+}
+
+ p {
+    position: absolute;
+    left: 400px;
+    top: 250px;
+     text-align: center; font-family: fantasy;
+}
+
+li {
+    position: absolute;
+    left: 300px;
+    top: 250px;
+    text-align: center;
+    text-align: center; font-size: 60px; font-family: arial
+}
+
+.oii { 
+    position: absolute;
+    left: 850px;
+    top: -30px;
+ }
+
+.glr {
+    position: absolute;
+    left: 450px;
+    top: 100px; 
+
+}
+
+.glrs {
+    position: absolute;
+    left: 450px;
+    top: 130px; 
+
+}
+
+.glrss {
+    position: absolute;
+    left: 450px;
+    top: 160px; 
+
+}
+
+
+h1 {
+    position: absolute;
+    left: 300px;
+    top: 135px;
+}
+
+.sla {
+    position: relative;
+    left: 300;
+    width: 1500px;
+    
+}
+.slas {
+    position: absolute;
+    left: 650px;
+    width: 800px;
+    top: 270px;
+
+}
+.linkhom {
+    font-size: 30px;
+    position: absolute;
+    left: 460px;
+    top: 80px; 
+
+}
+
+</style>

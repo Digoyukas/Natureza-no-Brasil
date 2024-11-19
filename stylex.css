@@ -1,0 +1,64 @@
+<style type="text/css">
+
+
+ h1 {
+    position: absolute;
+    left: 300px;
+    top: 250px;
+ }
+.fund {
+    position: relative;
+    left: 300px;
+    width: 1500px;
+    
+}
+.title {
+    position: absolute;
+    top: 0px;
+    left: 700px;
+    font-size: 70px;
+}
+.p1 {
+    position: absolute;
+    left: 500px;
+    top: 150px;
+}
+    
+.p2 {
+    position: absolute;
+    left: 500px;
+    top: 200px;
+}
+
+.p3 {
+    position: absolute;
+    left: 500px;
+    top: 250px;
+}
+
+.p4 {
+    position: absolute;
+    left: 500px;
+    top: 300px;
+}
+
+.p5 {
+    position: absolute;
+    left: 500px;
+    top: 350px;
+}
+.ambi {
+    position: absolute;
+    left: 500px;
+    top: 460px;
+    width: 400px;
+}
+.linkhom {
+    font-size: 30px;
+    position: absolute;
+    left: 500px;
+    top: 80px; 
+
+}
+
+</style>
